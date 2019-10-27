@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "jimmyis-workdemo-1"
+  },
+  "targets": {
+    "jimmyis-workdemo-1": {
+      "hosting": {
+        "webextract": [
+          "webextract"
+        ]
+      }
+    }
+  }
+}
